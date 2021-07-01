@@ -4,35 +4,35 @@
 }
 
 h1 {
-    margin-top: 145px;
+    margin-top: 10%;
     text-align: center;
     font-size: 25px;
     color: rgb(17, 2, 148);
 }
 
 h2 {
-    margin-left: 450px;
+    text-align: center;
     font-size: 25px;
     color: rgb(17, 2, 148);
 }
 
 .carta {
-    margin-left: 450px;
-    margin-right: 450px;
+    margin-left: 10%;
+    margin-right: 10%;
     font-size: 25px;
     line-height: 1.2;
     text-align: center;
 }
 
 h3 {
-    margin-left: 450px;
+    text-align: center;
     font-size: 25px;
     color: rgb(1, 76, 161);
 }
 
 h4 {
-    margin-left: 650px;
-    margin-top: 45px;
+    margin-left: 60%;
+    margin-top: 10%;
     font-size: 20px;
     color: rgb(1, 76, 161);
 }
@@ -40,7 +40,7 @@ h4 {
 #botao {
     float: right;
     margin-top: 10px;
-    margin-right: 350px;
+    margin-right: 5%;
 }
 
 a {
@@ -65,6 +65,6 @@ body {
 p {
     padding: 5px;
     font-size: 22px;
-    margin: 0px 150px;
+    margin: 0px 0px;
     color: #0105fa;
 }
